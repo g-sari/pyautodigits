@@ -2,7 +2,7 @@
 # -*- coding: utf8 -*-
 
 #################################################################
-# File name: digit_recognizer_training.py                       #
+# File name: digit_recognizer_testing.py                        #
 # Description: Recognize and test digits on an image.           #
 # Version: 0.0.1                                                #
 # Author: Gökhan Sari                                           #
