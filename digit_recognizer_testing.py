@@ -56,6 +56,6 @@ class DigitRecognizerTesting:
         cv2.imshow('output', out)
         cv2.waitKey(0)
 
-# Start the training process
+# Start the testing process
 if __name__ == '__main__':
     DigitRecognizerTesting().test()
