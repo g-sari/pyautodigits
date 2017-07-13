@@ -29,4 +29,4 @@ python digit_recognizer_testing.py
 
 ## Sample recognition output
 Here you can see the output of a successful digits recognition:
-[![Sample recognition output](sample-ocr-test-output-image.png)]
+![Sample recognition output](sample-ocr-test-output-image.png)
